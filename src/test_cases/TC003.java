@@ -4,7 +4,9 @@ public class TC003 {
 
     // first lines
 
-    //second line
+    // second line
 
-    //third line
+    // third line
+
+    // fourth line
 }
